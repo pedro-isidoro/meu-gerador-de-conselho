@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'Manrope', sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    background-color: var(--background-color);
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.card{
+    background-color: var(--advice-card-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    margin: 20px;
+    width: 345px;
+}
+
+.card .titulo{
+    color: var(--advice-dice-color);
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.card .conselho{
+    color: var(--text-color);
+    text-align: center;
+    padding: 23px;
+}
+
+.card picture img{
+    width: 100%;
+}
+
+.card .dado{
+    background-color: var(--advice-dice-color);
+    border-radius: 50%;
+    border: none;
+    width: 60px;
+    height: 60px;
+    transform: translateY(50%);
+}
+
+.card .dado:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 15px var(--advice-dice-color);
+}
