@@ -4,7 +4,7 @@ Nesse projeto cria-se um card no centro da tela, onde irão aparecer conselhos a
 No card há um título como o código do conselho, um parágrafo com os conselhos em si, ima imagem de linha e por último e não menos importante um botão com uma imagem de dado.  
 
 ## Projeto
-<img src="" alt="Gif do projeto">
+<img src="./src/images/gerador-de-conselhos.gif" alt="Gif do projeto">
 <br>
 
 ## Desafios
