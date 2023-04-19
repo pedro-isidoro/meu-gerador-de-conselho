@@ -9,4 +9,4 @@ No card há um título como o código do conselho, um parágrafo com os conselho
 
 ## Desafios
 Um dos desafios que sofri durante o decorrer do projeto foi conseguir deixar uma lógica simples, coesa e que desse certo no JS.<br>
-Mas com ajuda dos meus resumos feitos das aulas e dicas dadas no curso consegui contornar esses desafios e desenvolver uma lógica de fácil entendimento e com uma resolução que funcione corretamente. 
+Mas com ajuda dos meus resumos, feitos das aulas e dicas dadas no curso, consegui contornar esse empecilho e desenvolver uma lógica de fácil entendimento e com uma resolução que funcione corretamente. 
